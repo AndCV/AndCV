@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 
 
 I'm an advanced Mathematics student at the Technological Institute of Costa Rica (TEC) with a passion for mathematics, programming, and solving real-world problems through computational methods.
 
